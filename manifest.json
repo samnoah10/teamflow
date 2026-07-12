@@ -1,0 +1,15 @@
+{
+  "name": "TeamFlow — Team Workflow",
+  "short_name": "TeamFlow",
+  "description": "A custom team workflow tool — boards, automations, timelines, and dashboards.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14161f",
+  "theme_color": "#6161ff",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
